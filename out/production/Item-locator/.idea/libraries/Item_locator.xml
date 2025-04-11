@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Item-locator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openjfx-24_windows-x64_bin-sdk.zip!/" />
+      <root url="file://$PROJECT_DIR$/out" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2" />
+      <root url="file://$PROJECT_DIR$" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/javafx-sdk-23.0.2" recursive="false" type="SOURCES" />
+  </library>
+</component>

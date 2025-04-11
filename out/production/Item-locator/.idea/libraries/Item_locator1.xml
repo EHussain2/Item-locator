@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="Item-locator1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/out" />
+      <root url="jar://$PROJECT_DIR$/openjfx-24_windows-x64_bin-sdk.zip!/" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/lib/javafx.swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.2" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.web" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.swing" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.media" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.graphics" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.fxml" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.controls" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.base" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.base" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.controls" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.fxml" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.graphics" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.media" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.swing" />
+      <root url="jar://$PROJECT_DIR$/javafx-sdk-23.0.2/src.zip!/javafx.web" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/javafx-sdk-23.0.2/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/javafx-sdk-23.0.2" recursive="false" type="SOURCES" />
+  </library>
+</component>

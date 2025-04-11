@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Item-locator">
+    <output-path>$PROJECT_DIR$/out/artifacts/Item_locator</output-path>
+    <root id="root">
+      <element id="archive" name="Item_locator.jar">
+        <element id="module-output" name="Item-locator" />
+      </element>
+    </root>
+  </artifact>
+</component>
